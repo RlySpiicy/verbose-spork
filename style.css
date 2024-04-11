@@ -1,0 +1,49 @@
+h1{
+	color: antiquewhite;
+	font-size: 75px;
+	text-align: center;
+}
+body{
+	background-color: #99CCCC;
+	font-family: sans-serif;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	position: relative;
+	top: 0;
+	background-color: antiquewhite;
+}
+
+li{
+	float: left;
+}
+
+li a{
+	color: saddlebrown;
+	float: left;
+	text-align: center;
+	font-size: 25px;
+	padding: 10px;
+}
+
+li a:hover{
+	color: lightcoral;
+	background-color: #FFFFCC;
+	text-decoration: none;
+}
+
+
+div.section{
+	display: block;
+	background-color: antiquewhite;
+	padding: 10px;
+	border:4px;
+	border-color: saddlebrown;
+	border-style: solid;
+	border
+
+}
